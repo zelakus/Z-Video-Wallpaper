@@ -4,7 +4,7 @@ Z Video Wallpaper is a video wallpaper(as the name implies ;P) for windows 8, 8.
 ## Known Bugs
 -If program gets terminated while loading the media background stays white/black.  
 -If program gets terminated by task manager again background stays white/black.  
-+Fix: Restarting the app and closing corretly or restarting "explorer.exe"  
++Fix: Restarting the app and closing correctly or restarting "explorer.exe".  
 
 # Thanks
-This project exists thanks to Gerald Degeneve's "Draw Behind Desktop Icons in Windows 8+". Here's the link for his article: https://www.codeproject.com/articles/856020/draw-behind-desktop-icons-in-windows
+This project exists thanks to Gerald Degeneve's "Draw Behind Desktop Icons in Windows 8+". Here's the [link](https://www.codeproject.com/articles/856020/draw-behind-desktop-icons-in-windows) for his article.
