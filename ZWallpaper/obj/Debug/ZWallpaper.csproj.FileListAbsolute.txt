@@ -1,0 +1,16 @@
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\obj\Debug\ZWallpaper.csprojResolveAssemblyReference.cache
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\obj\Debug\ZWallpaper.Form1.resources
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\obj\Debug\ZWallpaper.Properties.Resources.resources
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\obj\Debug\ZWallpaper.csproj.GenerateResource.Cache
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\obj\Debug\ZWallpaper.csproj.CoreCompileInputs.cache
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\bin\Debug\ZWallpaper.exe.config
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\bin\Debug\ZWallpaper.exe
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\bin\Debug\ZWallpaper.pdb
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\obj\Debug\ZWallpaper.exe
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\obj\Debug\ZWallpaper.pdb
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\bin\Debug\Interop.WMPLib.dll
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\bin\Debug\AxInterop.WMPLib.dll
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\obj\Debug\Interop.WMPLib.dll
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\obj\Debug\AxInterop.WMPLib.dll
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\obj\Debug\ZWallpaper.csproj.ResolveComReference.cache
+c:\users\parad\source\repos\ZWallpaper\ZWallpaper\obj\Debug\ZWallpaper.Viewer.resources
